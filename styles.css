@@ -1,0 +1,88 @@
+.homeB {
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+.homeH {
+    text-align: center;
+
+}
+
+.homeL a {
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+
+.hamB {
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+
+.hamHf {
+    text-align: center;
+
+}
+
+.hamHo {
+    color: grey;
+
+}
+
+.hamL li {
+    font-size: 1.2rem;
+}
+
+.meatB {
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+
+.meatHf {
+    text-align: center;
+
+}
+
+.meatHo {
+    color: grey;
+
+}
+
+.meatL li {
+    font-size: 1.2rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+.pasB {
+    background-color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+
+.pasHf {
+    text-align: center;
+
+}
+
+.pasHo {
+    color: grey;
+
+}
+
+.pasL li {
+    font-size: 1.2rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
